@@ -1,5 +1,4 @@
 package java_assignment;
-
 import java.util.Scanner;
 
 public class Ass1 {
